@@ -1,0 +1,103 @@
+-- create extension if not exists vector;
+
+-- create table products (
+--   id text primary key,
+--   name text,
+--   description text,
+--   price numeric,
+--   currency text,
+--   category text,
+--   images jsonb,
+--   url text,
+--   metadata jsonb,
+--   embedding vector(1536)
+-- );
+
+
+-- create or replace function match_products (
+--   query_embedding vector(1536),
+--   match_threshold float,
+--   match_count int
+-- )
+-- returns table (
+--   id text,
+--   name text,
+--   description text,
+--   price numeric,
+--   currency text,
+--   category text,
+--   images jsonb,
+--   url text,
+--   metadata jsonb,
+--   similarity float
+-- )
+-- language sql stable
+-- as $$
+--   select
+--     id,
+--     name,
+--     description,
+--     price,
+--     currency,
+--     category,
+--     images,
+--     url,
+--     metadata,
+--     1 - (embedding <=> query_embedding) as similarity
+--   from products
+--   where 1 - (embedding <=> query_embedding) > match_threshold
+--   order by embedding <=> query_embedding
+--   limit match_count;
+-- $$;
+
+
+create extension if not exists vector;
+
+create table if not exists public.products (
+  id text primary key,
+  name text,
+  description text,
+  price numeric,
+  currency text,
+  category text,
+  images jsonb,
+  url text,
+  metadata jsonb,
+  embedding vector(1536)
+);
+
+create or replace function public.match_products (
+  query_embedding vector(1536),
+  match_threshold float,
+  match_count int
+)
+returns table (
+  id text,
+  name text,
+  description text,
+  price numeric,
+  currency text,
+  category text,
+  images jsonb,
+  url text,
+  metadata jsonb,
+  similarity float
+)
+language sql stable
+as $$
+  select
+    id,
+    name,
+    description,
+    price,
+    currency,
+    category,
+    images,
+    url,
+    metadata,
+    1 - (embedding <=> query_embedding) as similarity
+  from public.products
+  where 1 - (embedding <=> query_embedding) > match_threshold
+  order by embedding <=> query_embedding
+  limit match_count;
+$$;

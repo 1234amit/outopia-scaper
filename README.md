@@ -19,6 +19,8 @@ Supabase (Postgres + pgvector)
 OpenAI Embeddings
 Telegram Bot API
 Cheerio / Puppeteer (scraping)
+
+
 📁 Project Structure
 outopia-scraper/
 │
@@ -33,6 +35,8 @@ outopia-scraper/
 ├── outopia_products.json
 ├── .env
 └── README.md
+
+
 ⚙️ Setup Instructions
 1. Install dependencies
 npm install

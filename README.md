@@ -52,6 +52,7 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 OPENAI_API_KEY=your_openai_key
 3. Setup Supabase
 
+```
 Run SQL:
 
 create extension if not exists vector;
@@ -68,6 +69,9 @@ create table products (
   metadata jsonb,
   embedding vector(1536)
 );
+
+```
+
 4. Run Scraper
 node scrape.js
 5. Generate Embeddings
@@ -77,38 +81,38 @@ node insert-test.js
 🤖 Telegram Bot Usage
 
 Start bot:
-
 node bot.js
+
 Example Queries:
 men shoes under $100
 women dress below 50
 nike sneakers under 200
+
 🔍 Search System Logic
 Convert query → embedding
 Vector similarity search (pgvector)
 Apply filters (price/category)
 Return top products with image + link
+
 💰 Price Filtering
-
 Supports:
-
 under $100
 below 50
 less than 200
+
 🧠 OpenClaw / Claude Code Usage
 OpenClaw Command Example
 openclaw search "men shoes under $100"
 
 Returns:
-
 Product name
 Image
 Price
 Purchase link
 Claude Code Usage
 
+```
 Claude Code can call API:
-
 curl -X POST http://localhost:3000/search \
   -H "Content-Type: application/json" \
   -d '{"query":"men shoes under $100"}'
@@ -130,3 +134,4 @@ Response:
     }
   ]
 }
+```

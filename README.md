@@ -21,10 +21,10 @@ Telegram Bot API
 Cheerio / Puppeteer (scraping)
 
 
-📁 Project Structure
+## 📁 Project Structure
 
+```
 outopia-scraper/
-│
 ├── bot.js
 ├── scrape.js
 ├── embed.js
@@ -36,6 +36,7 @@ outopia-scraper/
 ├── outopia_products.json
 ├── .env
 └── README.md
+```
 
 
 ⚙️ Setup Instructions

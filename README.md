@@ -22,6 +22,7 @@ Cheerio / Puppeteer (scraping)
 
 
 📁 Project Structure
+
 outopia-scraper/
 │
 ├── bot.js

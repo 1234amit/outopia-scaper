@@ -1895,7 +1895,7 @@
       {
         "title": "Aurora Beam / L",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Aurora Beam / XL",
@@ -1905,12 +1905,12 @@
       {
         "title": "Aurora Beam / XXL",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Aurora Beam / XXXL",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Ultimate Gray / S",
@@ -1925,22 +1925,22 @@
       {
         "title": "Ultimate Gray / L",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Ultimate Gray / XL",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Ultimate Gray / XXL",
         "price": "148.00",
-        "available": false
+        "available": true
       },
       {
         "title": "Ultimate Gray / XXXL",
         "price": "148.00",
-        "available": false
+        "available": true
       }
     ],
     "metadata": {
@@ -5654,21 +5654,36 @@
       "Women"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_1.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_2.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_3.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_4.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_7.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_6.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_8.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_5.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_13.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_14.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_15.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_9.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_10.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_11.webp?v=1772777134",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_12.webp?v=1772777134"
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt1.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt10.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt11.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt12.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt9.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_1.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_2.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_3.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_4.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_7.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_6.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_8.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_5.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_13.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_14.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_15.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_9.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_10.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_11.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt_12.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt13.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt14.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt15.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt2.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt3.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt7.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt4.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt5.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt6.webp?v=1776402904",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Short_Sleeves_T-Shirt8.webp?v=1776402904"
     ],
     "url": "https://outopia.com/products/unisexs-astra-merino-blend-short-sleeves-t-shirt",
     "variants": [
@@ -5791,6 +5806,126 @@
         "title": "Gray Orchid / XXL",
         "price": "108.00",
         "available": true
+      },
+      {
+        "title": "Weeping Crabapple Pink / XS",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / S",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / M",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / L",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / XL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / XXL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / XS",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / S",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / M",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / L",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / XL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Peach Oolong / XXL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / XS",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / S",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / M",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / L",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / XL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Blueberry / XXL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / XS",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / S",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / M",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / L",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / XL",
+        "price": "128.00",
+        "available": false
+      },
+      {
+        "title": "Raspberry / XXL",
+        "price": "128.00",
+        "available": false
       }
     ],
     "metadata": {
@@ -5978,13 +6113,19 @@
       "Women"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_7.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_1.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_2.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_3.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_4.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_5.webp?v=1772776630",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_6.webp?v=1772776630"
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank1.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_7.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_1.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_2.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_3.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_4.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_5.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank2.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank3.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank4.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank5.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank7.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank6.webp?v=1776404395"
     ],
     "url": "https://outopia.com/products/unisexs-astra-merino-blend-tank",
     "variants": [
@@ -6017,6 +6158,66 @@
         "title": "Obsidian / 2XL",
         "price": "98.00",
         "available": true
+      },
+      {
+        "title": "Weeping Crabapple Pink / XS",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / S",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / M",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / L",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / XL",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Weeping Crabapple Pink / 2XL",
+        "price": "108.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / XS",
+        "price": "98.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / S",
+        "price": "98.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / M",
+        "price": "98.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / L",
+        "price": "98.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / XL",
+        "price": "98.00",
+        "available": false
+      },
+      {
+        "title": "Interstellar Cowboy / 2XL",
+        "price": "98.00",
+        "available": false
       }
     ],
     "metadata": {

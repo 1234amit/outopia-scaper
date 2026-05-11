@@ -23,6 +23,7 @@
         "DAILY",
         "Men",
         "ROAD RUNNING",
+        "Spring 26",
         "TOP",
         "TRAIL RUNNING",
         "TRAINING",
@@ -32,7 +33,7 @@
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Wonderland Merino Blend Short Sleeves T-Shirt\n    Experience the perfect blend of luxury and performance with this garment, crafted from traceable, ZQ™ certified 17.5-micron merino wool. Exceptionally soft and lightweight, the advanced, breathable fabric excels at wicking moisture away to keep you dry and comfortable. Natural antimicrobial protection for lasting odor resistance. Designed for effortless care, it is machine washable on a cold cycle (use a laundry bag) and maintains its original shape after washing.\n    men\n    All BASELAYER Best Seller CYCLING DAILY Men ROAD RUNNING TOP TRAIL RUNNING TRAINING Wonderland Wonderland *ZQ\n  "
+    "text_for_embedding": "\n    Men's Wonderland Merino Blend Short Sleeves T-Shirt\n    Experience the perfect blend of luxury and performance with this garment, crafted from traceable, ZQ™ certified 17.5-micron merino wool. Exceptionally soft and lightweight, the advanced, breathable fabric excels at wicking moisture away to keep you dry and comfortable. Natural antimicrobial protection for lasting odor resistance. Designed for effortless care, it is machine washable on a cold cycle (use a laundry bag) and maintains its original shape after washing.\n    men\n    All BASELAYER Best Seller CYCLING DAILY Men ROAD RUNNING Spring 26 TOP TRAIL RUNNING TRAINING Wonderland Wonderland *ZQ\n  "
   },
   {
     "id": "outopia_9287809499356",
@@ -67,13 +68,15 @@
         "HIKING",
         "Men",
         "outerwear",
+        "Spring 26",
         "TOP",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Waffle Merino Blend Short Sleeves T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING Men outerwear TOP Women\n  "
+    "text_for_embedding": "\n    Unisex's Waffle Merino Blend Short Sleeves T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING Men outerwear Spring 26 TOP Unisex Women\n  "
   },
   {
     "id": "outopia_9287998275804",
@@ -99,12 +102,13 @@
         "DAILY",
         "Men",
         "outerwear",
+        "Spring 26",
         "TOP"
       ],
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Waffle Merino Blend Short Sleeves Polo T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    men\n    All Best Seller DAILY Men outerwear TOP\n  "
+    "text_for_embedding": "\n    Men's Waffle Merino Blend Short Sleeves Polo T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    men\n    All Best Seller DAILY Men outerwear Spring 26 TOP\n  "
   },
   {
     "id": "outopia_9288079179996",
@@ -128,12 +132,13 @@
         "Best Seller",
         "DAILY",
         "Men",
+        "Spring 26",
         "TOP"
       ],
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Cool Touch Short Sleeves T-Shirt\n    Master the heat with the Cool Touch trail racing top. Engineered for peak performance in scorching humidity, Polartec® Delta™ innovative 3D honeycomb structure blends hydrophilic and hydrophobic yarns to lift moisture away while maximizing airflow. More than just moisture-wicking, this fabric acts as a natural cooling system, preventing that heavy \"clingy\" feel even at max effort. Experience the perfect balance of skin-friendly comfort and rugged durability. Cool to the touch, dry on the skin, keep your focus on the trail ahead.\n    men\n    All Best Seller DAILY Men TOP\n  "
+    "text_for_embedding": "\n    Men's Cool Touch Short Sleeves T-Shirt\n    Master the heat with the Cool Touch trail racing top. Engineered for peak performance in scorching humidity, Polartec® Delta™ innovative 3D honeycomb structure blends hydrophilic and hydrophobic yarns to lift moisture away while maximizing airflow. More than just moisture-wicking, this fabric acts as a natural cooling system, preventing that heavy \"clingy\" feel even at max effort. Experience the perfect balance of skin-friendly comfort and rugged durability. Cool to the touch, dry on the skin, keep your focus on the trail ahead.\n    men\n    All Best Seller DAILY Men Spring 26 TOP\n  "
   },
   {
     "id": "outopia_9288102641884",
@@ -197,7 +202,7 @@
   {
     "id": "outopia_9065784934620",
     "name": "Men’s Soul Run Short Tights 2.5L",
-    "description": "Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail.",
+    "description": "Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail. The Soul Run collection offers high-compression support with high-elasticity fabric. Not sure which size to pick? Reach out to our team with your height &amp; weight &amp; waist and hip measurements, we’ll help you find your ideal match.",
     "price": 88,
     "currency": "USD",
     "category": "men",
@@ -229,7 +234,7 @@
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men’s Soul Run Short Tights 2.5L\n    Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail.\n    men\n    All BASELAYER Men ROAD RUNNING SHORT TIGHTS SHORTS Soul Run TRAIL RUNNING\n  "
+    "text_for_embedding": "\n    Men’s Soul Run Short Tights 2.5L\n    Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail. The Soul Run collection offers high-compression support with high-elasticity fabric. Not sure which size to pick? Reach out to our team with your height &amp; weight &amp; waist and hip measurements, we’ll help you find your ideal match.\n    men\n    All BASELAYER Men ROAD RUNNING SHORT TIGHTS SHORTS Soul Run TRAIL RUNNING\n  "
   },
   {
     "id": "outopia_9302548349148",
@@ -254,12 +259,13 @@
         "Best Seller",
         "DAILY",
         "Men",
+        "Spring 26",
         "TOP"
       ],
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Exit Short Sleeves T-Shirt\n    Direction, speed, and safety converge into a visual metaphor—transforming a racing cloth into a dynamic, functional \"EXIT\" symbol on the track. Sculpted to the body with a lighter, more streamlined construction, it minimizes friction. The tailored fit gives effortless movement, while an innovative laser-perforated design on the back establishes a high-efficiency airflow system. As body temperature rises, it rapidly wicks away sweat and dissipates heat, keeping the core dry and comfortable. Every pore breathes freely in the wind.\n    men\n    All Best Seller DAILY Men TOP\n  "
+    "text_for_embedding": "\n    Men's Exit Short Sleeves T-Shirt\n    Direction, speed, and safety converge into a visual metaphor—transforming a racing cloth into a dynamic, functional \"EXIT\" symbol on the track. Sculpted to the body with a lighter, more streamlined construction, it minimizes friction. The tailored fit gives effortless movement, while an innovative laser-perforated design on the back establishes a high-efficiency airflow system. As body temperature rises, it rapidly wicks away sweat and dissipates heat, keeping the core dry and comfortable. Every pore breathes freely in the wind.\n    men\n    All Best Seller DAILY Men Spring 26 TOP\n  "
   },
   {
     "id": "outopia_9214494048476",
@@ -340,12 +346,13 @@
         "Men",
         "outerwear",
         "TOP",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Waffle Merino Half Zip Long Sleeves T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING Men outerwear TOP Women\n  "
+    "text_for_embedding": "\n    Unisex's Waffle Merino Half Zip Long Sleeves T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING Men outerwear TOP Unisex Women\n  "
   },
   {
     "id": "outopia_9013446574300",
@@ -414,12 +421,13 @@
         "Men",
         "TOP",
         "TRAIL RUNNING",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Alpha Direct Hooded Long Sleeves T-Shirt\n    Experience active warmth. Built with Polartec® Alpha™ Direct insulation, the Alpha Direct collection intuitively regulates your microclimate, retaining cozy warmth when you rest and releasing excess heat the moment you move. The fabric is remarkably lightweight, breathable, and soft enough to wear directly, ensuring all-day comfort on long adventures. Every detail is runner-centric: a discreet hood opening for ponytails, a secure zippered chest pocket for essentials, and reflective elements for safety at night. More than clothes, it’s intelligent comfort equipment for activities.\n    women\n    All Alpha Direct HIKING Men TOP TRAIL RUNNING Women\n  "
+    "text_for_embedding": "\n    Unisex's Alpha Direct Hooded Long Sleeves T-Shirt\n    Experience active warmth. Built with Polartec® Alpha™ Direct insulation, the Alpha Direct collection intuitively regulates your microclimate, retaining cozy warmth when you rest and releasing excess heat the moment you move. The fabric is remarkably lightweight, breathable, and soft enough to wear directly, ensuring all-day comfort on long adventures. Every detail is runner-centric: a discreet hood opening for ponytails, a secure zippered chest pocket for essentials, and reflective elements for safety at night. More than clothes, it’s intelligent comfort equipment for activities.\n    women\n    All Alpha Direct HIKING Men TOP TRAIL RUNNING Unisex Women\n  "
   },
   {
     "id": "outopia_9013446934748",
@@ -455,12 +463,13 @@
         "New",
         "OUTER LAYER",
         "SHORTS",
+        "Spring 26",
         "Storm"
       ],
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Storm Shorts\n    The Men's Storm collection combines a durable, wind- and water-resistant 4-way stretch shell with a soft Merino wool lining for natural warmth, moisture management, and odor control. Designed for active use, they offer excellent freedom of movement with articulated panels and stretchy fabric. Features include an adjustable elastic waistband and multiple secure pockets, making these shorts ideal for cool-weather running, hiking, and training.\n    men\n    All BOTTOM DAILY HIKING Men New OUTER LAYER SHORTS Storm\n  "
+    "text_for_embedding": "\n    Men's Storm Shorts\n    The Men's Storm collection combines a durable, wind- and water-resistant 4-way stretch shell with a soft Merino wool lining for natural warmth, moisture management, and odor control. Designed for active use, they offer excellent freedom of movement with articulated panels and stretchy fabric. Features include an adjustable elastic waistband and multiple secure pockets, making these shorts ideal for cool-weather running, hiking, and training.\n    men\n    All BOTTOM DAILY HIKING Men New OUTER LAYER SHORTS Spring 26 Storm\n  "
   },
   {
     "id": "outopia_9013448736988",
@@ -488,6 +497,7 @@
         "BASELAYER",
         "Men",
         "New",
+        "Spring 26",
         "SS TEE",
         "TOP",
         "TRAIL RUNNING",
@@ -497,7 +507,7 @@
       "vendor": "Outopia",
       "gender": "men"
     },
-    "text_for_embedding": "\n    Men's Venture Merino Blend Short Sleeves T-Shirt\n    Deep within the fibers, NuYarn® reengineers the DNA of performance. It is a breakthrough—offering 85% more stretch, 8.8x the durability, and drying 5x faster than traditional fabric. When you wear Venture, the world opens up. You feel the rhythm of breath and the rush of the wind. Designed to manage moisture, it wicks sweat instantly to keep you composed and dry. Meanwhile, the natural merino scales act as an invisible shield, neutralizing odors and inhibiting bacteria. Move with confidence. Move with Venture.\n    men\n    All BASELAYER Men New SS TEE TOP TRAIL RUNNING TRAINING Venture Lite\n  "
+    "text_for_embedding": "\n    Men's Venture Merino Blend Short Sleeves T-Shirt\n    Deep within the fibers, NuYarn® reengineers the DNA of performance. It is a breakthrough—offering 85% more stretch, 8.8x the durability, and drying 5x faster than traditional fabric. When you wear Venture, the world opens up. You feel the rhythm of breath and the rush of the wind. Designed to manage moisture, it wicks sweat instantly to keep you composed and dry. Meanwhile, the natural merino scales act as an invisible shield, neutralizing odors and inhibiting bacteria. Move with confidence. Move with Venture.\n    men\n    All BASELAYER Men New Spring 26 SS TEE TOP TRAIL RUNNING TRAINING Venture Lite\n  "
   },
   {
     "id": "outopia_9013446836444",
@@ -588,12 +598,13 @@
         "Men",
         "SS TEE",
         "TOP",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Earth Merino Blend Short Sleeves T-Shirt\n    The Earth Collection combines soft merino wool with breathable, plant-based Tencel™ Lyocell for natural temperature regulation and odor resistance. Each hand tie-dyed shirt is unique, offering both style and comfort in a relaxed fit. Its cool-to-the-touch fabric makes it ideal for all-day wear and spontaneous adventures.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING Men SS TEE TOP Women\n  "
+    "text_for_embedding": "\n    Unisex's Earth Merino Blend Short Sleeves T-Shirt\n    The Earth Collection combines soft merino wool with breathable, plant-based Tencel™ Lyocell for natural temperature regulation and odor resistance. Each hand tie-dyed shirt is unique, offering both style and comfort in a relaxed fit. Its cool-to-the-touch fabric makes it ideal for all-day wear and spontaneous adventures.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING Men SS TEE TOP Unisex Women\n  "
   },
   {
     "id": "outopia_9074866258140",
@@ -662,12 +673,13 @@
         "TANK",
         "TOP",
         "TOPTRAINING",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Earth Merino Blend Tank\n    This hand tie-dyed tank is unique with every pattern. Made from a blend of 17.5-micron New Zealand merino wool and Tencel™ Lyocell, it offers natural temperature control, odor resistance, and a cool, breathable feel. Its relaxed fit ensures comfort for all-day wear and versatile style.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING Men TANK TOP TOPTRAINING Women\n  "
+    "text_for_embedding": "\n    Unisex's Earth Merino Blend Tank\n    This hand tie-dyed tank is unique with every pattern. Made from a blend of 17.5-micron New Zealand merino wool and Tencel™ Lyocell, it offers natural temperature control, odor resistance, and a cool, breathable feel. Its relaxed fit ensures comfort for all-day wear and versatile style.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING Men TANK TOP TOPTRAINING Unisex Women\n  "
   },
   {
     "id": "outopia_9013446705372",
@@ -1132,13 +1144,14 @@
         "New",
         "TOP",
         "TRAIL RUNNING",
+        "Unisex",
         "VEST",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Alpha Direct Hooded Vest\n    The Alpha Direct Hooded Vest offers lightweight, breathable insulation designed for activity wear. Its lofted fibers regulate temperature by releasing heat during movement and locking in warmth during rest. The zippered chest pocket keeps essentials secure. Soft elastic bindings at the collar, cuffs, and hem block out drafts, ensuring a comfortable, close fit. Perfect for high-intensity, outdoor activities, it provides warmth and flexibility when you need it most.\n    women\n    All Alpha Direct HIKING Men MIDDLE LAYER New TOP TRAIL RUNNING VEST Women\n  "
+    "text_for_embedding": "\n    Unisex's Alpha Direct Hooded Vest\n    The Alpha Direct Hooded Vest offers lightweight, breathable insulation designed for activity wear. Its lofted fibers regulate temperature by releasing heat during movement and locking in warmth during rest. The zippered chest pocket keeps essentials secure. Soft elastic bindings at the collar, cuffs, and hem block out drafts, ensuring a comfortable, close fit. Perfect for high-intensity, outdoor activities, it provides warmth and flexibility when you need it most.\n    women\n    All Alpha Direct HIKING Men MIDDLE LAYER New TOP TRAIL RUNNING Unisex VEST Women\n  "
   },
   {
     "id": "outopia_9013447327964",
@@ -1195,12 +1208,13 @@
         "LS TEE",
         "Men",
         "TOP",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Earth Merino Blend Long Sleeves T-Shirt\n    The Earth Collection is a unique, hand tie-dyed piece made from soft New Zealand merino wool and breathable, plant-based Tencel™ Lyocell. This natural blend regulates temperature, resists odor, and feels cool against the skin. Designed with a relaxed fit, it offers comfortable, all-day wear perfect for everyday use and adventure.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING LS TEE Men TOP Women\n  "
+    "text_for_embedding": "\n    Unisex's Earth Merino Blend Long Sleeves T-Shirt\n    The Earth Collection is a unique, hand tie-dyed piece made from soft New Zealand merino wool and breathable, plant-based Tencel™ Lyocell. This natural blend regulates temperature, resists odor, and feels cool against the skin. Designed with a relaxed fit, it offers comfortable, all-day wear perfect for everyday use and adventure.\n    women\n    All BASELAYER Best Seller DAILY Earth Tencel HIKING LS TEE Men TOP Unisex Women\n  "
   },
   {
     "id": "outopia_9013449588956",
@@ -1273,13 +1287,14 @@
         "HAT&CAP",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Wild Hat",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Wild Hat Running Cap\n    The Wild Hat Running Cap is designed for runners needing breathable, moisture-wicking comfort. Its lightweight mesh fabric keeps air flowing, while the quick-drying sweatband manages perspiration. The flexible brim adapts for sun or rain protection, and a secure buckle closure ensures a comfortable fit. Reflective details offer 360° visibility for safety during low-light runs.\n    women\n    accessories All HAT&CAP Men TRAIL RUNNING Wild Hat Women\n  "
+    "text_for_embedding": "\n    Unisex's Wild Hat Running Cap\n    The Wild Hat Running Cap is designed for runners needing breathable, moisture-wicking comfort. Its lightweight mesh fabric keeps air flowing, while the quick-drying sweatband manages perspiration. The flexible brim adapts for sun or rain protection, and a secure buckle closure ensures a comfortable fit. Reflective details offer 360° visibility for safety during low-light runs.\n    women\n    accessories All HAT&CAP Men TRAIL RUNNING Unisex Wild Hat Women\n  "
   },
   {
     "id": "outopia_9074875695324",
@@ -1310,13 +1325,61 @@
         "Ice Bucket Hat",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Wild Hat",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Wild Hat Foldable Hat\n    The Unisex's Wild Hat Foldable Hat is light as a feather, folding easily for compact storage in your bag. Clean, raw-edge-free construction ensures all-day comfort. Color-blocking adds a stylish twist. The elastic draw cord adjusts easily to fit various head sizes. Its wide brim offers sun protection, and ventilation holes keep you cool during hikes. Reflective logos enhance safety at night.\n    women\n    accessories All HAT&CAP HIKE Ice Bucket Hat Men TRAIL RUNNING Wild Hat Women\n  "
+    "text_for_embedding": "\n    Unisex's Wild Hat Foldable Hat\n    The Unisex's Wild Hat Foldable Hat is light as a feather, folding easily for compact storage in your bag. Clean, raw-edge-free construction ensures all-day comfort. Color-blocking adds a stylish twist. The elastic draw cord adjusts easily to fit various head sizes. Its wide brim offers sun protection, and ventilation holes keep you cool during hikes. Reflective logos enhance safety at night.\n    women\n    accessories All HAT&CAP HIKE Ice Bucket Hat Men TRAIL RUNNING Unisex Wild Hat Women\n  "
+  },
+  {
+    "id": "outopia_9013448671452",
+    "name": "Men's Windflyer Wind Jacket",
+    "description": "Everyone chasing the horizon seeks a gear that moves in perfect harmony with the body—a breathable shield that vanishes the moment it’s put on. The Windflyer collection embodies \"zero-feel\" protection, crafted specifically for those who thrive in the unpredictable wild. Using PERTEX® EQUILIBRIUM fabric, we have created a jacket that repels wind and drizzle on the outside while drawing moisture away on the inside, ensuring dry and comfortable through every run or hike. The design thoughtfully addresses the nuances of active motion: an adjustable hood with a ponytail hole offers a seamless fit, protective Horse-hoof cuffs, and an elasticized hem keeps the chill out. A dedicated watch window offers instant access to your data. Best of all, the entire jacket fits in its own pocket.",
+    "price": 198,
+    "currency": "USD",
+    "category": "men",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket2.webp?v=1776738155",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket3.webp?v=1776738155",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket4.webp?v=1776738155",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket5.webp?v=1776738155",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket13.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket14.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket15.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket16.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket12.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket9.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket10.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket11.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket20.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket6.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket7.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket8.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket17.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket18.webp?v=1776738233",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sWindflyerWindJacket19.webp?v=1776738233"
+    ],
+    "url": "https://outopia.com/products/mens-windflyer-wind-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "HIKING",
+        "Men",
+        "OUTER LAYER",
+        "outerwear",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "WIND JACKET",
+        "Windflyer"
+      ],
+      "vendor": "Outopia",
+      "gender": "men"
+    },
+    "text_for_embedding": "\n    Men's Windflyer Wind Jacket\n    Everyone chasing the horizon seeks a gear that moves in perfect harmony with the body—a breathable shield that vanishes the moment it’s put on. The Windflyer collection embodies \"zero-feel\" protection, crafted specifically for those who thrive in the unpredictable wild. Using PERTEX® EQUILIBRIUM fabric, we have created a jacket that repels wind and drizzle on the outside while drawing moisture away on the inside, ensuring dry and comfortable through every run or hike. The design thoughtfully addresses the nuances of active motion: an adjustable hood with a ponytail hole offers a seamless fit, protective Horse-hoof cuffs, and an elasticized hem keeps the chill out. A dedicated watch window offers instant access to your data. Best of all, the entire jacket fits in its own pocket.\n    men\n    All HIKING Men OUTER LAYER outerwear Spring 26 TOP TRAIL RUNNING WIND JACKET Windflyer\n  "
   },
   {
     "id": "outopia_9013446672604",
@@ -1455,6 +1518,7 @@
         "ROAD RUNNING",
         "Socks",
         "TRAIL RUNNING",
+        "Unisex",
         "Warm Up",
         "Wild Sox",
         "Women"
@@ -1462,7 +1526,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Compression Crew Socks\n    Our Wild Sox Collection focuses on comfort and durability. These tie-dye compression running socks support your muscles during long runs, whether on trails or roads. Made with anti-pilling yarn, maintain their shape after washing. Seamless ergonomic fit and extra cushioning at the toe &amp; heel for shock absorption. Perfect for hiking, road running and trail running.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Warm Up Wild Sox Women\n  "
+    "text_for_embedding": "\n    Unisex's Compression Crew Socks\n    Our Wild Sox Collection focuses on comfort and durability. These tie-dye compression running socks support your muscles during long runs, whether on trails or roads. Made with anti-pilling yarn, maintain their shape after washing. Seamless ergonomic fit and extra cushioning at the toe &amp; heel for shock absorption. Perfect for hiking, road running and trail running.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Unisex Warm Up Wild Sox Women\n  "
   },
   {
     "id": "outopia_9207390929116",
@@ -1493,6 +1557,7 @@
         "ROAD RUNNING",
         "Socks",
         "TRAIL RUNNING",
+        "Unisex",
         "Warm Up",
         "Wild Sox",
         "Women"
@@ -1500,7 +1565,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Dot Quarter Socks\n    The Wild Sox Collection is designed for hiking, road running and trail running, offering medium compression to support muscles and prevent slip. Made with anti-pilling yarn, maintain their shape after washing. The cushioned toe, heel, and 3D “bean” sole provide excellent shock absorption on rocky paths or hard asphalt. Keep comfortable and high-performance for your every run.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Warm Up Wild Sox Women\n  "
+    "text_for_embedding": "\n    Unisex's Dot Quarter Socks\n    The Wild Sox Collection is designed for hiking, road running and trail running, offering medium compression to support muscles and prevent slip. Made with anti-pilling yarn, maintain their shape after washing. The cushioned toe, heel, and 3D “bean” sole provide excellent shock absorption on rocky paths or hard asphalt. Keep comfortable and high-performance for your every run.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Unisex Warm Up Wild Sox Women\n  "
   },
   {
     "id": "outopia_9207392993500",
@@ -1528,6 +1593,7 @@
         "ROAD RUNNING",
         "Socks",
         "TRAIL RUNNING",
+        "Unisex",
         "Warm Up",
         "Wild Sox",
         "Women"
@@ -1535,7 +1601,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Merino Blend Crew Socks\n    The Wild Sox Collection is designed for hiking, road running and trail running, offering medium compression to support muscles and prevent slip. Made with anti-pilling yarn, maintain their shape after washing. The cushioned toe, heel, and 3D “bean” sole provide excellent shock absorption on rocky paths or hard asphalt. Keep comfortable and high-performance for your every run.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Warm Up Wild Sox Women\n  "
+    "text_for_embedding": "\n    Unisex's Merino Blend Crew Socks\n    The Wild Sox Collection is designed for hiking, road running and trail running, offering medium compression to support muscles and prevent slip. Made with anti-pilling yarn, maintain their shape after washing. The cushioned toe, heel, and 3D “bean” sole provide excellent shock absorption on rocky paths or hard asphalt. Keep comfortable and high-performance for your every run.\n    women\n    accessories All DAILY HIKING Men ROAD RUNNING Socks TRAIL RUNNING Unisex Warm Up Wild Sox Women\n  "
   },
   {
     "id": "outopia_9210696171740",
@@ -1581,13 +1647,14 @@
         "Men",
         "New",
         "TRAIL RUNNING",
+        "Unisex",
         "VEST",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Panacea Hydration Vest\n    Experience body-hugging comfort with our ergonomic back structure. Stay supremely organized with 11 strategically placed pockets, including 4 large front pockets that can together hold 12+ energy gels. Additionally, choose from 4 versatile attachment systems to carry your running poles in the way that suits you best, and it also supports most running pole bags. The vest can carry soft flasks or a reservoir, offering flexible hydration solutions for your adventure. It comes equipped with 2 soft flasks.\n    women\n    accessories All Bag HIKING Men New TRAIL RUNNING VEST Women\n  "
+    "text_for_embedding": "\n    Unisex's Panacea Hydration Vest\n    Experience body-hugging comfort with our ergonomic back structure. Stay supremely organized with 11 strategically placed pockets, including 4 large front pockets that can together hold 12+ energy gels. Additionally, choose from 4 versatile attachment systems to carry your running poles in the way that suits you best, and it also supports most running pole bags. The vest can carry soft flasks or a reservoir, offering flexible hydration solutions for your adventure. It comes equipped with 2 soft flasks.\n    women\n    accessories All Bag HIKING Men New TRAIL RUNNING Unisex VEST Women\n  "
   },
   {
     "id": "outopia_9211110785244",
@@ -1622,12 +1689,13 @@
         "Men",
         "ROAD RUNNING",
         "TRAIL RUNNING",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Earth Merino Blend Bandana\n    The Earth collection is a unique, hand tie-dyed piece made from soft New Zealand Merino wool and breathable, plant-based Tencel™ Lyocell. This natural blend regulates temperature, resists odor, and feels cool against the skin. From trail defense to town style, Our Earth Merino Blend Bandana is your lightest, most versatile gear.\n    women\n    accessories All Bandana Best Seller CYCLING DAILY Earth Tencel HIKING Men ROAD RUNNING TRAIL RUNNING Women\n  "
+    "text_for_embedding": "\n    Unisex's Earth Merino Blend Bandana\n    The Earth collection is a unique, hand tie-dyed piece made from soft New Zealand Merino wool and breathable, plant-based Tencel™ Lyocell. This natural blend regulates temperature, resists odor, and feels cool against the skin. From trail defense to town style, Our Earth Merino Blend Bandana is your lightest, most versatile gear.\n    women\n    accessories All Bandana Best Seller CYCLING DAILY Earth Tencel HIKING Men ROAD RUNNING TRAIL RUNNING Unisex Women\n  "
   },
   {
     "id": "outopia_9211115765980",
@@ -1662,13 +1730,14 @@
         "HIKING",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Wild Hat",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Running Cap\n    Crafted from feather-light fabric with a perforated brim, this cap seamlessly blends performance and style. Easy to roll and fold, and can be wrung dry and worn instantly. The mesh lining wicks sweat away in a flash, keeping your head cool and dry. A contrast-color brim adds a pop of personality, while reflective details keep you safe on night runs. With a stretch-adjustable back strap, it stays securely and comfortably in place whether you’re running or training.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Wild Hat Women\n  "
+    "text_for_embedding": "\n    Unisex's Running Cap\n    Crafted from feather-light fabric with a perforated brim, this cap seamlessly blends performance and style. Easy to roll and fold, and can be wrung dry and worn instantly. The mesh lining wicks sweat away in a flash, keeping your head cool and dry. A contrast-color brim adds a pop of personality, while reflective details keep you safe on night runs. With a stretch-adjustable back strap, it stays securely and comfortably in place whether you’re running or training.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Unisex Wild Hat Women\n  "
   },
   {
     "id": "outopia_9211189100764",
@@ -1699,13 +1768,14 @@
         "HIKING",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Wild Hat",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Ice Bucket Hat\n    Designed for extremely hot trail running environments, feels cool to the touch and light as a feather. It easily folds up for compact storage. Dual-sided mesh pockets can insert ice packs or crushed ice, like a \"carryable AC\". It delivers continuous physical cooling to your head, helping you stay sharp and focused during long trail runs or hikes. The adjustable elastic drawcord ensures a secure, customized fit for multiple head sizes. Reflective details enhance visibility for night safety. On mountains, on streets, it keeps you cool, stylish, and running with confidence.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Wild Hat Women\n  "
+    "text_for_embedding": "\n    Unisex's Ice Bucket Hat\n    Designed for extremely hot trail running environments, feels cool to the touch and light as a feather. It easily folds up for compact storage. Dual-sided mesh pockets can insert ice packs or crushed ice, like a \"carryable AC\". It delivers continuous physical cooling to your head, helping you stay sharp and focused during long trail runs or hikes. The adjustable elastic drawcord ensures a secure, customized fit for multiple head sizes. Reflective details enhance visibility for night safety. On mountains, on streets, it keeps you cool, stylish, and running with confidence.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Unisex Wild Hat Women\n  "
   },
   {
     "id": "outopia_9304061935836",
@@ -1733,13 +1803,14 @@
         "HIKING",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Wild Hat",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Wild Hat Running Visor\n    “Ascent, Descent, Repeat.” Embracing the relentless cycle of the trail, this high-performance visor is designed for the runner who never stops. Crafted from premium moisture-wicking fabric with a skin-friendly inner lining, it rapidly draws sweat away to keep your vision clear. The intelligently balanced brim offers the perfect blend of structure and flexibility. Featuring a quick-adjust elastic snap system, it provides a secure, custom fit that moves with you. Your ultimate summer trail companion, find the rhythm in the mountains and beauty in the grind.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Wild Hat Women\n  "
+    "text_for_embedding": "\n    Unisex's Wild Hat Running Visor\n    “Ascent, Descent, Repeat.” Embracing the relentless cycle of the trail, this high-performance visor is designed for the runner who never stops. Crafted from premium moisture-wicking fabric with a skin-friendly inner lining, it rapidly draws sweat away to keep your vision clear. The intelligently balanced brim offers the perfect blend of structure and flexibility. Featuring a quick-adjust elastic snap system, it provides a secure, custom fit that moves with you. Your ultimate summer trail companion, find the rhythm in the mountains and beauty in the grind.\n    women\n    accessories All HAT&CAP HIKING Men TRAIL RUNNING Unisex Wild Hat Women\n  "
   },
   {
     "id": "outopia_9013447065820",
@@ -1877,13 +1948,14 @@
         "NECK&HEADBAND",
         "SNOW",
         "TRAIL RUNNING",
+        "Unisex",
         "WINTER TRAINING",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Reversible Headband\n    The Unisex's Warm Up Merino Blend Reversible Headband is crafted with Australian Merino Wool. It boasts natural antibacterial and odor-resistant properties, plus moisture-wicking and heat-retaining capabilities. Double-sided design offers two styles in one. High elasticity with wide coverage securely wraps both ears, blocking wind during running, skiing, and cold-weather training.\n    women\n    accessories All CYCLING Men NECK&HEADBAND SNOW TRAIL RUNNING WINTER TRAINING Women\n  "
+    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Reversible Headband\n    The Unisex's Warm Up Merino Blend Reversible Headband is crafted with Australian Merino Wool. It boasts natural antibacterial and odor-resistant properties, plus moisture-wicking and heat-retaining capabilities. Double-sided design offers two styles in one. High elasticity with wide coverage securely wraps both ears, blocking wind during running, skiing, and cold-weather training.\n    women\n    accessories All CYCLING Men NECK&HEADBAND SNOW TRAIL RUNNING Unisex WINTER TRAINING Women\n  "
   },
   {
     "id": "outopia_9092302897372",
@@ -1909,6 +1981,7 @@
         "Men",
         "SNOW",
         "TRAIL RUNNING",
+        "Unisex",
         "Warm Up",
         "WINTER TRAINING",
         "Women"
@@ -1916,7 +1989,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Reversible Neck Gaiter\n    The Unisex's Warm Up Merino Blend Reversible Neck Gaiter is crafted with Australian Merino Wool. It boasts natural antibacterial and odor-resistant properties, plus moisture-wicking and heat-retaining capabilities. Double-sided design offers two styles in one. It can be used as a neck warmer, headband,wristband or face cover, suitable for skiing, trail running and cold-weather training.\n    women\n    accessories All CYCLING Men SNOW TRAIL RUNNING Warm Up WINTER TRAINING Women\n  "
+    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Reversible Neck Gaiter\n    The Unisex's Warm Up Merino Blend Reversible Neck Gaiter is crafted with Australian Merino Wool. It boasts natural antibacterial and odor-resistant properties, plus moisture-wicking and heat-retaining capabilities. Double-sided design offers two styles in one. It can be used as a neck warmer, headband,wristband or face cover, suitable for skiing, trail running and cold-weather training.\n    women\n    accessories All CYCLING Men SNOW TRAIL RUNNING Unisex Warm Up WINTER TRAINING Women\n  "
   },
   {
     "id": "outopia_9153535639772",
@@ -1946,13 +2019,329 @@
         "HIKING",
         "Men",
         "TRAIL RUNNING",
+        "Unisex",
         "Warm Up",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Beanie\n    The Unisex's Warm Up Merino Blend Beanie, crafted from high-performance wool blend and designed for sports activities, offers comfort and protection. Temperature regulation that efficiently dissipates heat, absorb sweat during exercise, reducing odor for a fresh feeling, and the animal fibers are skin-friendly. Reversible jacquard design suits different occasions with unique style, machine washable and highly durable.\n    women\n    accessories All BEANIE DAILY HIKING Men TRAIL RUNNING Warm Up Women\n  "
+    "text_for_embedding": "\n    Unisex's Warm Up Merino Blend Beanie\n    The Unisex's Warm Up Merino Blend Beanie, crafted from high-performance wool blend and designed for sports activities, offers comfort and protection. Temperature regulation that efficiently dissipates heat, absorb sweat during exercise, reducing odor for a fresh feeling, and the animal fibers are skin-friendly. Reversible jacquard design suits different occasions with unique style, machine washable and highly durable.\n    women\n    accessories All BEANIE DAILY HIKING Men TRAIL RUNNING Unisex Warm Up Women\n  "
+  },
+  {
+    "id": "outopia_9337918456028",
+    "name": "Unisex's Breeze Lightweight Wind Jacket",
+    "description": "OUTOPIA believes the ultimate outdoor experience begins at the skin. When the wind brushes your arms and the sun falls on your shoulders, you don’t need heavy armor; you need a \"second skin\" that feels entirely weightless. Inspired by the fluid power of calligraphy, our design balances strength with grace, mirroring the rhythmic explosion of a runner in stride. Whether you are navigating the morning glare of the city run or exploring a sun-drenched trail, Breeze is crafted to keep your body and spirit in a state of dry, effortless freedom. By combining a professional UPF 50+ with a specialized 0.18 cooling fabric, Breeze turns the sun’s heat into a refreshing chill. The silhouette is built for active life, featuring a streamlined stand-up collar. The loose, ergonomic fit works in tandem with a back ventilation system that breathes as you breathe, actively venting perspiration to prevent that stifling, humid feel.",
+    "price": 188,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket1.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket2.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket3.webp?v=1776672149",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket4.webp?v=1776672149",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket5.webp?v=1776672149",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket6.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket7.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket8.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket9.webp?v=1776672150",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket17.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket10.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket11.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket12.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket13.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket18.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket14.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket15.webp?v=1776672236",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sBreezeWindJacket16.webp?v=1776672236"
+    ],
+    "url": "https://outopia.com/products/unisexs-breeze-lightweight-wind-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "DAILY",
+        "HIKING",
+        "Men",
+        "New",
+        "OUTER LAYER",
+        "outerwear",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "Unisex",
+        "WIND JACKET",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Unisex's Breeze Lightweight Wind Jacket\n    OUTOPIA believes the ultimate outdoor experience begins at the skin. When the wind brushes your arms and the sun falls on your shoulders, you don’t need heavy armor; you need a \"second skin\" that feels entirely weightless. Inspired by the fluid power of calligraphy, our design balances strength with grace, mirroring the rhythmic explosion of a runner in stride. Whether you are navigating the morning glare of the city run or exploring a sun-drenched trail, Breeze is crafted to keep your body and spirit in a state of dry, effortless freedom. By combining a professional UPF 50+ with a specialized 0.18 cooling fabric, Breeze turns the sun’s heat into a refreshing chill. The silhouette is built for active life, featuring a streamlined stand-up collar. The loose, ergonomic fit works in tandem with a back ventilation system that breathes as you breathe, actively venting perspiration to prevent that stifling, humid feel.\n    women\n    All DAILY HIKING Men New OUTER LAYER outerwear Spring 26 TOP TRAIL RUNNING Unisex WIND JACKET Women\n  "
+  },
+  {
+    "id": "outopia_9337929564380",
+    "name": "Men's Trekker Soft Shell Jacket",
+    "description": "By imprinting the OUTOPIA calligraphic logo, we celebrate more than just a brand; we celebrate the ascent itself. These fluid brushstrokes symbolize the climber’s ideal state: a harmony of explosive strength and effortless flow, where every movement is as deliberate and graceful as ink on paper. The Trekker collection offers UPF 50+ sun protection, windproofness, and water repellency. The fabric is specifically reinforced for abrasion resistance, yet infused with cooling fibers to keep you composed and refreshed during the most demanding maneuvers. Tuning heat via the two-way zipper, quickly packing the jacket into itself, the Trekker remains your most reliable ally.",
+    "price": 198,
+    "currency": "USD",
+    "category": "men",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket1.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket2.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket3.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket4.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket5.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket6.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket7.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket8.webp?v=1776673849",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerSoftShellJacket9.webp?v=1776673849"
+    ],
+    "url": "https://outopia.com/products/mens-trekker-soft-shell-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "HIKING",
+        "Men",
+        "New",
+        "OUTER LAYER",
+        "outerwear",
+        "SHELL JACKET",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING"
+      ],
+      "vendor": "Outopia",
+      "gender": "men"
+    },
+    "text_for_embedding": "\n    Men's Trekker Soft Shell Jacket\n    By imprinting the OUTOPIA calligraphic logo, we celebrate more than just a brand; we celebrate the ascent itself. These fluid brushstrokes symbolize the climber’s ideal state: a harmony of explosive strength and effortless flow, where every movement is as deliberate and graceful as ink on paper. The Trekker collection offers UPF 50+ sun protection, windproofness, and water repellency. The fabric is specifically reinforced for abrasion resistance, yet infused with cooling fibers to keep you composed and refreshed during the most demanding maneuvers. Tuning heat via the two-way zipper, quickly packing the jacket into itself, the Trekker remains your most reliable ally.\n    men\n    All HIKING Men New OUTER LAYER outerwear SHELL JACKET Spring 26 TOP TRAIL RUNNING\n  "
+  },
+  {
+    "id": "outopia_9339168751836",
+    "name": "Men's Trekker Shorts 5\"",
+    "description": "Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A flattering 5-inch inseam enhances your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and side-slit hems for freedom of movement.",
+    "price": 118,
+    "currency": "USD",
+    "category": "men",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts52.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts53.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts54.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts55.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts56.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts57.webp?v=1776759101",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerShorts58.webp?v=1776759101"
+    ],
+    "url": "https://outopia.com/products/mens-trekker-shorts-5",
+    "metadata": {
+      "tags": [
+        "All",
+        "BASELAYER",
+        "BOTTOM",
+        "Men",
+        "SHORTS",
+        "Spring 26"
+      ],
+      "vendor": "Outopia",
+      "gender": "men"
+    },
+    "text_for_embedding": "\n    Men's Trekker Shorts 5\"\n    Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A flattering 5-inch inseam enhances your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and side-slit hems for freedom of movement.\n    men\n    All BASELAYER BOTTOM Men SHORTS Spring 26\n  "
+  },
+  {
+    "id": "outopia_9339183268060",
+    "name": "Men's Trekker Hiking Pants",
+    "description": "Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A classic straight fit enhance your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and handwritten-style logo print adds a touch of edge.",
+    "price": 178,
+    "currency": "USD",
+    "category": "men",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants1.webp?v=1776752098",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants2.webp?v=1776752098",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants3.webp?v=1776752098",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants7.webp?v=1776752137",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants4.webp?v=1776752137",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants5.webp?v=1776752137",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sTrekkerHikingPants6.webp?v=1776752137"
+    ],
+    "url": "https://outopia.com/products/mens-trekker-hiking-pants",
+    "metadata": {
+      "tags": [
+        "All",
+        "Best Seller",
+        "BOTTOM",
+        "DAILY",
+        "HIKING",
+        "Men",
+        "OUTER LAYER",
+        "PANTS",
+        "Spring 26"
+      ],
+      "vendor": "Outopia",
+      "gender": "men"
+    },
+    "text_for_embedding": "\n    Men's Trekker Hiking Pants\n    Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A classic straight fit enhance your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and handwritten-style logo print adds a touch of edge.\n    men\n    All Best Seller BOTTOM DAILY HIKING Men OUTER LAYER PANTS Spring 26\n  "
+  },
+  {
+    "id": "outopia_9348267081948",
+    "name": "Unisex's SKT Wool Linen Blend Short Sleeves T-Shirt",
+    "description": "While the world chases the \"Fastest,\" we choose to honor the \"Slowest.\" S.K.T—Slowest Known Time—is inspired by a legendary marathon record: 54 years, 8 months, 6 days, 5 hours, 32 minutes, and 20.3 seconds. This is not a tribute to slowness, but to a deeper arrival. In an era of constant acceleration, we reclaim the right to find our own rhythm. Born for the summer, our Merino Wool and Linen blend is designed to help your body and mind settle. Merino wool provides a gentle, thermoregulating touch, maintaining comfort even after a heavy sweat. Meanwhile, linen offers a natural cooling sensation and effortless breathability. This fusion creates a fabric that is soft, non-itchy, and moisture-wicking without feeling damp. Whether you are trail running through peaks, trekking through dense forests, or navigating the morning work, S.K.T ensures your skin feels fresh as a mountain breeze.",
+    "price": 118,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt2.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt5.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt3.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt4.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt6.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt7.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt8.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt9.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt11.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt12.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt10.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt13.webp?v=1777362000",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt14.webp?v=1777362001",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendShortSleevesT-Shirt15.webp?v=1777362001"
+    ],
+    "url": "https://outopia.com/products/unisexs-skt-wool-linen-blend-short-sleeves-t-shirt",
+    "metadata": {
+      "tags": [
+        "All",
+        "BASELAYER",
+        "Best Seller",
+        "DAILY",
+        "Men",
+        "Spring 26",
+        "TOP",
+        "Unisex",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Unisex's SKT Wool Linen Blend Short Sleeves T-Shirt\n    While the world chases the \"Fastest,\" we choose to honor the \"Slowest.\" S.K.T—Slowest Known Time—is inspired by a legendary marathon record: 54 years, 8 months, 6 days, 5 hours, 32 minutes, and 20.3 seconds. This is not a tribute to slowness, but to a deeper arrival. In an era of constant acceleration, we reclaim the right to find our own rhythm. Born for the summer, our Merino Wool and Linen blend is designed to help your body and mind settle. Merino wool provides a gentle, thermoregulating touch, maintaining comfort even after a heavy sweat. Meanwhile, linen offers a natural cooling sensation and effortless breathability. This fusion creates a fabric that is soft, non-itchy, and moisture-wicking without feeling damp. Whether you are trail running through peaks, trekking through dense forests, or navigating the morning work, S.K.T ensures your skin feels fresh as a mountain breeze.\n    women\n    All BASELAYER Best Seller DAILY Men Spring 26 TOP Unisex Women\n  "
+  },
+  {
+    "id": "outopia_9348271276252",
+    "name": "Unisex's SKT Wool Linen Blend Long Sleeves T-Shirt",
+    "description": "While the world chases the \"Fastest,\" we choose to honor the \"Slowest.\" S.K.T—Slowest Known Time—is inspired by a legendary marathon record: 54 years, 8 months, 6 days, 5 hours, 32 minutes, and 20.3 seconds. This is not a tribute to slowness, but to a deeper arrival. In an era of constant acceleration, we reclaim the right to find our own rhythm. Born for the summer, our Merino Wool and Linen blend is designed to help your body and mind settle. Merino wool provides a gentle, thermoregulating touch, maintaining comfort even after a heavy sweat. Meanwhile, linen offers a natural cooling sensation and effortless breathability. This fusion creates a fabric that is soft, non-itchy, and moisture-wicking without feeling damp. Whether you are trail running through peaks, trekking through dense forests, or navigating the morning work, S.K.T ensures your skin feels fresh as a mountain breeze.",
+    "price": 128,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt2.jpg?v=1777362817",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt3.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt4.webp?v=1777362817",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt5.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt6.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt7.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt8.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt9.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt10.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt11.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt12.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt13.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt14.webp?v=1777362816",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTWoolLinenBlendLongSleevesT-Shirt15.webp?v=1777362817"
+    ],
+    "url": "https://outopia.com/products/unisexs-skt-wool-linen-blend-long-sleeves-t-shirt",
+    "metadata": {
+      "tags": [
+        "All",
+        "BASELAYER",
+        "Best Seller",
+        "DAILY",
+        "Men",
+        "TOP",
+        "Unisex",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Unisex's SKT Wool Linen Blend Long Sleeves T-Shirt\n    While the world chases the \"Fastest,\" we choose to honor the \"Slowest.\" S.K.T—Slowest Known Time—is inspired by a legendary marathon record: 54 years, 8 months, 6 days, 5 hours, 32 minutes, and 20.3 seconds. This is not a tribute to slowness, but to a deeper arrival. In an era of constant acceleration, we reclaim the right to find our own rhythm. Born for the summer, our Merino Wool and Linen blend is designed to help your body and mind settle. Merino wool provides a gentle, thermoregulating touch, maintaining comfort even after a heavy sweat. Meanwhile, linen offers a natural cooling sensation and effortless breathability. This fusion creates a fabric that is soft, non-itchy, and moisture-wicking without feeling damp. Whether you are trail running through peaks, trekking through dense forests, or navigating the morning work, S.K.T ensures your skin feels fresh as a mountain breeze.\n    women\n    All BASELAYER Best Seller DAILY Men TOP Unisex Women\n  "
+  },
+  {
+    "id": "outopia_9356229640412",
+    "name": "Men's Ascent Shell Jacket",
+    "description": "Features a specialized relaxed silhouette with integrated volume expansion at the chest and back. You can wear your hydration vest or trail pack underneath the jacket, maintaining a streamlined profile. To balance protection with high performance, we’ve incorporated a multi-dimensional ventilation system. Strategic air-convection at the shoulders and armpits facilitates constant airflow, actively wicking away internal moisture and preventing overheating. Protection from the elements is meticulous and adaptive. The jacket features a deepened, three-way adjustable hood with a reinforced brim that shields your face from rainy days without obstructing your peripheral vision. When the hood isn't needed, a dedicated rear stowage loop can roll and secure it. Every detail is built for the rugged outdoors, from the high-abrasion 130GSM fabric to the waterproof taped pockets that provide a secure, dry sanctuary for your essentials.",
+    "price": 349,
+    "currency": "USD",
+    "category": "men",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket3.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket4.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket5.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket6.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket7.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket8.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket9.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket15.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket2.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket10.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket11.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket12.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket13.webp?v=1778132782",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAscentShellJacket14.webp?v=1778132782"
+    ],
+    "url": "https://outopia.com/products/mens-ascent-shell-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "DAILY",
+        "HIKING",
+        "Men",
+        "New",
+        "OUTER LAYER",
+        "outerwear",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "WIND JACKET"
+      ],
+      "vendor": "Outopia",
+      "gender": "men"
+    },
+    "text_for_embedding": "\n    Men's Ascent Shell Jacket\n    Features a specialized relaxed silhouette with integrated volume expansion at the chest and back. You can wear your hydration vest or trail pack underneath the jacket, maintaining a streamlined profile. To balance protection with high performance, we’ve incorporated a multi-dimensional ventilation system. Strategic air-convection at the shoulders and armpits facilitates constant airflow, actively wicking away internal moisture and preventing overheating. Protection from the elements is meticulous and adaptive. The jacket features a deepened, three-way adjustable hood with a reinforced brim that shields your face from rainy days without obstructing your peripheral vision. When the hood isn't needed, a dedicated rear stowage loop can roll and secure it. Every detail is built for the rugged outdoors, from the high-abrasion 130GSM fabric to the waterproof taped pockets that provide a secure, dry sanctuary for your essentials.\n    men\n    All DAILY HIKING Men New OUTER LAYER outerwear Spring 26 TOP TRAIL RUNNING WIND JACKET\n  "
+  },
+  {
+    "id": "outopia_9274231685340",
+    "name": "Unisex's Astra Merino Blend Tank",
+    "description": "Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story. Wear it. Let the stories grow with you every step.",
+    "price": 98,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank1.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_7.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_1.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_2.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_3.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_4.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_5.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank2.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank3.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank4.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank5.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank7.webp?v=1776404395",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank6.webp?v=1776404395"
+    ],
+    "url": "https://outopia.com/products/unisexs-astra-merino-blend-tank",
+    "metadata": {
+      "tags": [
+        "All",
+        "Astra",
+        "HIKING",
+        "Men",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "Unisex",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Unisex's Astra Merino Blend Tank\n    Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story. Wear it. Let the stories grow with you every step.\n    women\n    All Astra HIKING Men Spring 26 TOP TRAIL RUNNING Unisex Women\n  "
   },
   {
     "id": "outopia_9096215986396",
@@ -2011,13 +2400,14 @@
         "All",
         "Best Seller",
         "DAILY",
+        "Spring 26",
         "TOP",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Exit Short Sleeves T-Shirt\n    Direction, speed, and safety converge into a visual metaphor—transforming a racing cloth into a dynamic, functional \"EXIT\" symbol on the track. Sculpted to the body with a lighter, more streamlined construction, it minimizes friction. The tailored fit gives effortless movement, while an innovative laser-perforated design on the back establishes a high-efficiency airflow system. As body temperature rises, it rapidly wicks away sweat and dissipates heat, keeping the core dry and comfortable. Every pore breathes freely in the wind.\n    women\n    All Best Seller DAILY TOP Women\n  "
+    "text_for_embedding": "\n    Women's Exit Short Sleeves T-Shirt\n    Direction, speed, and safety converge into a visual metaphor—transforming a racing cloth into a dynamic, functional \"EXIT\" symbol on the track. Sculpted to the body with a lighter, more streamlined construction, it minimizes friction. The tailored fit gives effortless movement, while an innovative laser-perforated design on the back establishes a high-efficiency airflow system. As body temperature rises, it rapidly wicks away sweat and dissipates heat, keeping the core dry and comfortable. Every pore breathes freely in the wind.\n    women\n    All Best Seller DAILY Spring 26 TOP Women\n  "
   },
   {
     "id": "outopia_9302535799004",
@@ -2123,14 +2513,16 @@
         "All",
         "Astra",
         "HIKING",
+        "Spring 26",
         "TOP",
         "TRAIL RUNNING",
+        "Unisex",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Unisex's Astra Merino Blend Short Sleeves T-Shirt\n    Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story: \"OUTOPIA,\" intertwined with fallen leaves and wild berries, as if the mountain breeze had breathed life into the letters; \"Perfection makes me sick\" brings the dream back from distant purity to sweat, breath, and all; the kitten wearing a straw hat embodies the modern hermit, a quiet symbol of chosen detachment; and \"WARNING: ALIEN ON TRAIL\" hints that beyond the finish line, there might be the universe. Wear it. Let the stories grow with you every step.\n    women\n    All Astra HIKING TOP TRAIL RUNNING Women\n  "
+    "text_for_embedding": "\n    Unisex's Astra Merino Blend Short Sleeves T-Shirt\n    Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story: \"OUTOPIA,\" intertwined with fallen leaves and wild berries, as if the mountain breeze had breathed life into the letters; \"Perfection makes me sick\" brings the dream back from distant purity to sweat, breath, and all; the kitten wearing a straw hat embodies the modern hermit, a quiet symbol of chosen detachment; and \"WARNING: ALIEN ON TRAIL\" hints that beyond the finish line, there might be the universe. Wear it. Let the stories grow with you every step.\n    women\n    All Astra HIKING Spring 26 TOP TRAIL RUNNING Unisex Women\n  "
   },
   {
     "id": "outopia_9288030781660",
@@ -2153,13 +2545,14 @@
         "All",
         "Best Seller",
         "DAILY",
+        "Spring 26",
         "TOP",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Cool Touch Short Sleeves T-Shirt\n    Master the heat with the Cool Touch trail racing top. Engineered for peak performance in scorching humidity, Polartec® Delta™ innovative 3D honeycomb structure blends hydrophilic and hydrophobic yarns to lift moisture away while maximizing airflow. More than just moisture-wicking, this fabric acts as a natural cooling system, preventing that heavy \"clingy\" feel even at max effort. Experience the perfect balance of skin-friendly comfort and rugged durability. Cool to the touch, dry on the skin, keep your focus on the trail ahead.\n    women\n    All Best Seller DAILY TOP Women\n  "
+    "text_for_embedding": "\n    Women's Cool Touch Short Sleeves T-Shirt\n    Master the heat with the Cool Touch trail racing top. Engineered for peak performance in scorching humidity, Polartec® Delta™ innovative 3D honeycomb structure blends hydrophilic and hydrophobic yarns to lift moisture away while maximizing airflow. More than just moisture-wicking, this fabric acts as a natural cooling system, preventing that heavy \"clingy\" feel even at max effort. Experience the perfect balance of skin-friendly comfort and rugged durability. Cool to the touch, dry on the skin, keep your focus on the trail ahead.\n    women\n    All Best Seller DAILY Spring 26 TOP Women\n  "
   },
   {
     "id": "outopia_9287965311196",
@@ -2186,50 +2579,14 @@
         "DAILY",
         "HIKING",
         "outerwear",
+        "Spring 26",
         "TOP",
         "Women"
       ],
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Waffle Merino Blend Short Sleeves Polo T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING outerwear TOP Women\n  "
-  },
-  {
-    "id": "outopia_9274231685340",
-    "name": "Unisex's Astra Merino Blend Tank",
-    "description": "Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story. Wear it. Let the stories grow with you every step.",
-    "price": 98,
-    "currency": "USD",
-    "category": "women",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank1.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_7.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_1.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_2.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_3.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_4.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sAstraMerinoBlendTank_5.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank2.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank3.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank4.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank5.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank7.webp?v=1776404395",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_s_Astra_Merino_Blend_Tank6.webp?v=1776404395"
-    ],
-    "url": "https://outopia.com/products/unisexs-astra-merino-blend-tank",
-    "metadata": {
-      "tags": [
-        "All",
-        "Astra",
-        "HIKING",
-        "TOP",
-        "TRAIL RUNNING",
-        "Women"
-      ],
-      "vendor": "Outopia",
-      "gender": "women"
-    },
-    "text_for_embedding": "\n    Unisex's Astra Merino Blend Tank\n    Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story. Wear it. Let the stories grow with you every step.\n    women\n    All Astra HIKING TOP TRAIL RUNNING Women\n  "
+    "text_for_embedding": "\n    Women's Waffle Merino Blend Short Sleeves Polo T-Shirt\n    The Waffle collection is designed for passionate hikers, trail runners, and road runners, offering ultimate comfort whether you're tackling mountain trails, enjoying daily runs, or multi-sport training. Every run is a journey toward \"Free Utopia\" — OUTOPIA isn't an unreal dream, but the solid ground beneath your feet with every step you take. A stand-up collar to elegantly accentuate the shoulder and neck lines, and the half zip is easy to wear. The raglan sleeves offer a flattering, flexible fit for all body types. The soft merino waffle fabric provides exceptional moisture-wicking properties, keeping you dry and comfortable without sticking to the skin, so you can focus on pushing your limits and conquering every challenge.\n    women\n    All Best Seller DAILY HIKING outerwear Spring 26 TOP Women\n  "
   },
   {
     "id": "outopia_9274166968540",
@@ -2285,6 +2642,7 @@
         "CYCLING",
         "DAILY",
         "ROAD RUNNING",
+        "Spring 26",
         "TOP",
         "TRAIL RUNNING",
         "TRAINING",
@@ -2295,7 +2653,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Wonderland Merino Blend Short Sleeves T-Shirt\n    Experience the perfect blend of luxury and performance with this garment, crafted from traceable, ZQ™ certified 17.5-micron merino wool. Exceptionally soft and lightweight, the advanced, breathable fabric excels at wicking moisture away to keep you dry and comfortable. Natural antimicrobial protection for lasting odor resistance. Designed for effortless care, it is machine washable on a cold cycle (use a laundry bag) and maintains its original shape after washing.\n    women\n    All BASELAYER Best Seller CYCLING DAILY ROAD RUNNING TOP TRAIL RUNNING TRAINING Women Wonderland Wonderland *ZQ\n  "
+    "text_for_embedding": "\n    Women's Wonderland Merino Blend Short Sleeves T-Shirt\n    Experience the perfect blend of luxury and performance with this garment, crafted from traceable, ZQ™ certified 17.5-micron merino wool. Exceptionally soft and lightweight, the advanced, breathable fabric excels at wicking moisture away to keep you dry and comfortable. Natural antimicrobial protection for lasting odor resistance. Designed for effortless care, it is machine washable on a cold cycle (use a laundry bag) and maintains its original shape after washing.\n    women\n    All BASELAYER Best Seller CYCLING DAILY ROAD RUNNING Spring 26 TOP TRAIL RUNNING TRAINING Women Wonderland Wonderland *ZQ\n  "
   },
   {
     "id": "outopia_9273970196700",
@@ -2324,6 +2682,7 @@
         "All",
         "Astra",
         "HIKING",
+        "Spring 26",
         "TOP",
         "TRAIL RUNNING",
         "Women"
@@ -2331,7 +2690,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Astra Merino Blend Short Sleeves T-Shirt\n    Designed for professional trail running events, a classic crewneck that flatters the neckline and a tailored cut for free movement. Each print tells a unique story: a \"100KM Finisher\" signpost subtly folded into a bow, celebrating the glory of completion; a metallic \"Outopia\" with \"Perfection makes me sick\" is a cool, sharp tribute to the power of imperfection and authenticity; Inspired by our athlete Luo Qiong, the \"ASTRA Girl\" leaps among the nebulae, using the Milky Way as her aid station; The rose symbolizes courage and elegance blooming in adversity. Comfortable and breathable, it turns every run into a party of staying to yourself.\n    women\n    All Astra HIKING TOP TRAIL RUNNING Women\n  "
+    "text_for_embedding": "\n    Women's Astra Merino Blend Short Sleeves T-Shirt\n    Designed for professional trail running events, a classic crewneck that flatters the neckline and a tailored cut for free movement. Each print tells a unique story: a \"100KM Finisher\" signpost subtly folded into a bow, celebrating the glory of completion; a metallic \"Outopia\" with \"Perfection makes me sick\" is a cool, sharp tribute to the power of imperfection and authenticity; Inspired by our athlete Luo Qiong, the \"ASTRA Girl\" leaps among the nebulae, using the Milky Way as her aid station; The rose symbolizes courage and elegance blooming in adversity. Comfortable and breathable, it turns every run into a party of staying to yourself.\n    women\n    All Astra HIKING Spring 26 TOP TRAIL RUNNING Women\n  "
   },
   {
     "id": "outopia_9264462889180",
@@ -2405,7 +2764,7 @@
   {
     "id": "outopia_9055637962972",
     "name": "Women's Soul Run Short Tights 2.5L",
-    "description": "Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail.",
+    "description": "Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail. The Soul Run collection offers high-compression support with high-elasticity fabric. Not sure which size to pick? Reach out to our team with your height &amp; weight &amp; waist and hip measurements, we’ll help you find your ideal match.",
     "price": 88,
     "currency": "USD",
     "category": "women",
@@ -2443,7 +2802,7 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Soul Run Short Tights 2.5L\n    Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail.\n    women\n    All BASELAYER BOTTOM ROAD RUNNING SHORT TIGHTS Soul Run TRAIL RUNNING TRAINING Women\n  "
+    "text_for_embedding": "\n    Women's Soul Run Short Tights 2.5L\n    Boost your off-road runs with these high-performance 3/4-Length Short Tights. Made from durable, stretchy nylon-spandex, they offer superior thigh support and stability. The seamless waistband provides a snug, chafe-free fit, while a breathable mesh gusset keeps you cool and dry. Anti-slip gripper tape prevents rolling during intense runs. With 7 pockets (2.5L capacity) for your essentials, and reflective details for night run safety, the Soul Run collection is designed for comfort, functionality, and performance on any trail. The Soul Run collection offers high-compression support with high-elasticity fabric. Not sure which size to pick? Reach out to our team with your height &amp; weight &amp; waist and hip measurements, we’ll help you find your ideal match.\n    women\n    All BASELAYER BOTTOM ROAD RUNNING SHORT TIGHTS Soul Run TRAIL RUNNING TRAINING Women\n  "
   },
   {
     "id": "outopia_9074833326300",
@@ -3413,6 +3772,52 @@
     "text_for_embedding": "\n    Women's Venture Merino Blend Tank\n    Deep within the fibers, NuYarn® reengineers the DNA of performance. It is a breakthrough—offering 85% more stretch, 8.8x the durability, and drying 5x faster than traditional fabric. When you wear Venture, the world opens up. You feel the rhythm of breath and the rush of the wind. Designed to manage moisture, it wicks sweat instantly to keep you composed and dry. Meanwhile, the natural merino scales act as an invisible shield, neutralizing odors and inhibiting bacteria. Move with confidence. Move with Venture.\n    women\n    All BASELAYER New TANK TOP TRAIL RUNNING TRAINING Venture Lite Women\n  "
   },
   {
+    "id": "outopia_9013448933596",
+    "name": "Women's Windflyer Wind Jacket",
+    "description": "Using PERTEX® EQUILIBRIUM fabric, we have created a jacket that repels wind and drizzle on the outside while drawing moisture away on the inside, ensuring dry and comfortable through every run or hike. The design thoughtfully addresses the nuances of active motion: an adjustable hood with a ponytail hole offers a seamless fit, protective Horse-hoof cuffs, and an elasticized hem keeps the chill out. A dedicated watch window offers instant access to your data. Best of all, the entire jacket fits in its own pocket.",
+    "price": 198,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket2.webp?v=1776738775",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket3.webp?v=1776738775",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket4.webp?v=1776738774",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket14.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket19.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket15.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket16.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket18.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket17.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket11.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket12.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket13.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket5.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket6.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket7.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket8.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket9.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket10.webp?v=1776738926",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sWindflyerWindJacket20.webp?v=1776738775"
+    ],
+    "url": "https://outopia.com/products/womens-windflyer-wind-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "HIKING",
+        "OUTER LAYER",
+        "outerwear",
+        "TOP",
+        "TRAIL RUNNING",
+        "WIND JACKET",
+        "Windflyer",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Women's Windflyer Wind Jacket\n    Using PERTEX® EQUILIBRIUM fabric, we have created a jacket that repels wind and drizzle on the outside while drawing moisture away on the inside, ensuring dry and comfortable through every run or hike. The design thoughtfully addresses the nuances of active motion: an adjustable hood with a ponytail hole offers a seamless fit, protective Horse-hoof cuffs, and an elasticized hem keeps the chill out. A dedicated watch window offers instant access to your data. Best of all, the entire jacket fits in its own pocket.\n    women\n    All HIKING OUTER LAYER outerwear TOP TRAIL RUNNING WIND JACKET Windflyer Women\n  "
+  },
+  {
     "id": "outopia_9013448474844",
     "name": "Women's Wool Loft Merino Blend Hooded Fleece Vest",
     "description": "The Wool Loft collection utilizes Polartec® High Loft™ fabric, providing outstanding warmth with minimal weight. Its breathable, fast-drying, and water-repellent design ensures comfort and dryness during intense activity. The athletic fit and stretch panels are designed for unrestricted movement, while the fitted hood protects against the wind. Two-way zipper allows for customizable ventilation, and multiple zippered pockets keep your essentials secure. Durable and compressible, it's the perfect gear for outdoor running.",
@@ -3507,6 +3912,7 @@
         "All",
         "BASELAYER",
         "New",
+        "Spring 26",
         "TANK",
         "TOP",
         "TRAIL RUNNING",
@@ -3517,6 +3923,148 @@
       "vendor": "Outopia",
       "gender": "women"
     },
-    "text_for_embedding": "\n    Women's Venture Merino Blend Short Sleeves T-Shirt\n    Deep within the fibers, NuYarn® reengineers the DNA of performance. It is a breakthrough—offering 85% more stretch, 8.8x the durability, and drying 5x faster than traditional fabric. When you wear Venture, the world opens up. You feel the rhythm of breath and the rush of the wind. Designed to manage moisture, it wicks sweat instantly to keep you composed and dry. Meanwhile, the natural merino scales act as an invisible shield, neutralizing odors and inhibiting bacteria. Move with confidence. Move with Venture.\n    women\n    All BASELAYER New TANK TOP TRAIL RUNNING TRAINING Venture Lite Women\n  "
+    "text_for_embedding": "\n    Women's Venture Merino Blend Short Sleeves T-Shirt\n    Deep within the fibers, NuYarn® reengineers the DNA of performance. It is a breakthrough—offering 85% more stretch, 8.8x the durability, and drying 5x faster than traditional fabric. When you wear Venture, the world opens up. You feel the rhythm of breath and the rush of the wind. Designed to manage moisture, it wicks sweat instantly to keep you composed and dry. Meanwhile, the natural merino scales act as an invisible shield, neutralizing odors and inhibiting bacteria. Move with confidence. Move with Venture.\n    women\n    All BASELAYER New Spring 26 TANK TOP TRAIL RUNNING TRAINING Venture Lite Women\n  "
+  },
+  {
+    "id": "outopia_9337926090972",
+    "name": "Women's Trekker Soft Shell Jacket",
+    "description": "By imprinting the OUTOPIA calligraphic logo, we celebrate more than just a brand; we celebrate the ascent itself. These fluid brushstrokes symbolize the climber’s ideal state: a harmony of explosive strength and effortless flow, where every movement is as deliberate and graceful as ink on paper. The Trekker collection offers UPF 50+ sun protection, windproofness, and water repellency. The fabric is specifically reinforced for abrasion resistance, yet infused with cooling fibers to keep you composed and refreshed during the most demanding maneuvers. Tuning heat via the two-way zipper, quickly packing the jacket into itself, the Trekker remains your most reliable ally.",
+    "price": 198,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket1.webp?v=1776673186",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket2.webp?v=1776673186",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket3.webp?v=1776673186",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket13.webp?v=1776673248",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket4.webp?v=1776673248",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerSoftShellJacket5.webp?v=1776673248"
+    ],
+    "url": "https://outopia.com/products/womens-trekker-soft-shell-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "HIKING",
+        "New",
+        "OUTER LAYER",
+        "outerwear",
+        "SHELL JACKET",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Women's Trekker Soft Shell Jacket\n    By imprinting the OUTOPIA calligraphic logo, we celebrate more than just a brand; we celebrate the ascent itself. These fluid brushstrokes symbolize the climber’s ideal state: a harmony of explosive strength and effortless flow, where every movement is as deliberate and graceful as ink on paper. The Trekker collection offers UPF 50+ sun protection, windproofness, and water repellency. The fabric is specifically reinforced for abrasion resistance, yet infused with cooling fibers to keep you composed and refreshed during the most demanding maneuvers. Tuning heat via the two-way zipper, quickly packing the jacket into itself, the Trekker remains your most reliable ally.\n    women\n    All HIKING New OUTER LAYER outerwear SHELL JACKET Spring 26 TOP TRAIL RUNNING Women\n  "
+  },
+  {
+    "id": "outopia_9339227144412",
+    "name": "Women's Trekker Hiking Pants",
+    "description": "Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A classic straight fit enhance your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and handwritten-style logo print adds a touch of edge.",
+    "price": 178,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants6.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants7.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants8.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants9.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants3.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants4.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants5.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants1.webp?v=1776752864",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerHikingPants2.webp?v=1776752864"
+    ],
+    "url": "https://outopia.com/products/womens-trekker-hiking-pants",
+    "metadata": {
+      "tags": [
+        "All",
+        "Best Seller",
+        "BOTTOM",
+        "DAILY",
+        "HIKING",
+        "OUTER LAYER",
+        "PANTS",
+        "Spring 26",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Women's Trekker Hiking Pants\n    Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A classic straight fit enhance your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and handwritten-style logo print adds a touch of edge.\n    women\n    All Best Seller BOTTOM DAILY HIKING OUTER LAYER PANTS Spring 26 Women\n  "
+  },
+  {
+    "id": "outopia_9339693990108",
+    "name": "Women's Trekker Shorts 5\"",
+    "description": "Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A flattering 5-inch inseam enhances your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and side-slit hems for freedom of movement.",
+    "price": 118,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts54.webp?v=1776763823",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts55.webp?v=1776763823",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts56.webp?v=1776763823",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts57.webp?v=1776763823",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts52.webp?v=1776763823",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sTrekkerShorts53.webp?v=1776763823"
+    ],
+    "url": "https://outopia.com/products/womens-trekker-shorts-5",
+    "metadata": {
+      "tags": [
+        "All",
+        "BASELAYER",
+        "BOTTOM",
+        "SHORTS",
+        "Spring 26",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Women's Trekker Shorts 5\"\n    Between the rugged peaks and the sheer rock face, every stretch of the body is a silent dialogue with nature. The Trekker collection was conceived for those who seek to conquer heights and measure the wilderness—an armor that balances raw, muscular power with a sculpted elegance. A flattering 5-inch inseam enhances your leg proportions with full coverage, a magnetic clasp waistband for quick, hassle-free wear. The flat front design for a sleek, smooth fit. Functionality is elevated with a discreet \"pocket-in-pocket\" for your phone, and side-slit hems for freedom of movement.\n    women\n    All BASELAYER BOTTOM SHORTS Spring 26 Women\n  "
+  },
+  {
+    "id": "outopia_9356241535196",
+    "name": "Women's Ascent Shell Jacket",
+    "description": "Features a specialized relaxed silhouette with integrated volume expansion at the chest and back. You can wear your hydration vest or trail pack underneath the jacket, maintaining a streamlined profile. To balance protection with high performance, we’ve incorporated a multi-dimensional ventilation system. Strategic air-convection at the shoulders and armpits facilitates constant airflow, actively wicking away internal moisture and preventing overheating. Protection from the elements is meticulous and adaptive. The jacket features a deepened, three-way adjustable hood with a reinforced brim that shields your face from rainy days without obstructing your peripheral vision. When the hood isn't needed, a dedicated rear stowage loop can roll and secure it. Every detail is built for the rugged outdoors, from the high-abrasion 130GSM fabric to the waterproof taped pockets that provide a secure, dry sanctuary for your essentials.",
+    "price": 349,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt2.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt4.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt3.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt5.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt14.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt10.webp?v=1778134442",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt9.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt11.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt13.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt12.webp?v=1778134442",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt6.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt7.webp?v=1778134441",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sSKTLongSleevesT-Shirt8.webp?v=1778134441"
+    ],
+    "url": "https://outopia.com/products/womens-ascent-shell-jacket",
+    "metadata": {
+      "tags": [
+        "All",
+        "DAILY",
+        "HIKING",
+        "New",
+        "OUTER LAYER",
+        "outerwear",
+        "Spring 26",
+        "TOP",
+        "TRAIL RUNNING",
+        "WIND JACKET",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Women's Ascent Shell Jacket\n    Features a specialized relaxed silhouette with integrated volume expansion at the chest and back. You can wear your hydration vest or trail pack underneath the jacket, maintaining a streamlined profile. To balance protection with high performance, we’ve incorporated a multi-dimensional ventilation system. Strategic air-convection at the shoulders and armpits facilitates constant airflow, actively wicking away internal moisture and preventing overheating. Protection from the elements is meticulous and adaptive. The jacket features a deepened, three-way adjustable hood with a reinforced brim that shields your face from rainy days without obstructing your peripheral vision. When the hood isn't needed, a dedicated rear stowage loop can roll and secure it. Every detail is built for the rugged outdoors, from the high-abrasion 130GSM fabric to the waterproof taped pockets that provide a secure, dry sanctuary for your essentials.\n    women\n    All DAILY HIKING New OUTER LAYER outerwear Spring 26 TOP TRAIL RUNNING WIND JACKET Women\n  "
   }
 ]

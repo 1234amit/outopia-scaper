@@ -61,16 +61,24 @@ const bot = new TelegramBot(token, {
   polling: true,
 });
 
+bot.on("polling_error", (err) => {
+  console.error("Polling error:", err.message);
+});
+
 bot.on("message", async (msg) => {
   const chatId = msg.chat.id;
   const query = msg.text;
 
+  console.log("Received Telegram message:", query);
+
   if (!query || query.startsWith("/")) {
-    return bot.sendMessage(chatId, "Send me a product search, for example: men shoes under 100");
+    return bot.sendMessage(
+      chatId,
+      "Send me a product search, for example: men shoes under 100"
+    );
   }
 
   try {
-    console.log("Telegram query:", query);
     console.log("Calling API:", `${API_URL}/search`);
 
     const res = await axios.post(`${API_URL}/search`, {
@@ -84,7 +92,6 @@ bot.on("message", async (msg) => {
     }
 
     const p = products[0];
-
     const image = p.images?.[0] || "https://via.placeholder.com/300";
 
     await bot.sendPhoto(chatId, image, {

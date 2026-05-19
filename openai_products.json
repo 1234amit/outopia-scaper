@@ -1382,41 +1382,6 @@
     "text_for_embedding": "\n    Men's Windflyer Wind Jacket\n    Everyone chasing the horizon seeks a gear that moves in perfect harmony with the body—a breathable shield that vanishes the moment it’s put on. The Windflyer collection embodies \"zero-feel\" protection, crafted specifically for those who thrive in the unpredictable wild. Using PERTEX® EQUILIBRIUM fabric, we have created a jacket that repels wind and drizzle on the outside while drawing moisture away on the inside, ensuring dry and comfortable through every run or hike. The design thoughtfully addresses the nuances of active motion: an adjustable hood with a ponytail hole offers a seamless fit, protective Horse-hoof cuffs, and an elasticized hem keeps the chill out. A dedicated watch window offers instant access to your data. Best of all, the entire jacket fits in its own pocket.\n    men\n    All HIKING Men OUTER LAYER outerwear Spring 26 TOP TRAIL RUNNING WIND JACKET Windflyer\n  "
   },
   {
-    "id": "outopia_9013446672604",
-    "name": "Men's Aero Wool Merino Blend Hooded Long Sleeves T-Shirt",
-    "description": "The Aero Wool collection provides lightweight core warmth using advanced Active+ Insulation inspired by aerospace materials. Designed for long-distance runners, it includes internal pockets for secure, bounce-free storage of up to six energy gels and doubles as a stow sack. The vest compresses easily with one hand and features an adjustable hem to block drafts, making it an efficient, packable layer for race day or active pursuits.",
-    "price": 168,
-    "currency": "USD",
-    "category": "men",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt8.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt1.webp?v=1768891947",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt2.webp?v=1768891947",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt3.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt4.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt5.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt6.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt7.webp?v=1768891948",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt9.webp?v=1768891947",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Men_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt10.webp?v=1768891947"
-    ],
-    "url": "https://outopia.com/products/mens-aero-wool-merino-blend-hooded-long-sleeves-t-shirt",
-    "metadata": {
-      "tags": [
-        "Aero Wool",
-        "All",
-        "CYCLING",
-        "LS TEE",
-        "Men",
-        "TOP",
-        "TRAIL RUNNING"
-      ],
-      "vendor": "Outopia",
-      "gender": "men"
-    },
-    "text_for_embedding": "\n    Men's Aero Wool Merino Blend Hooded Long Sleeves T-Shirt\n    The Aero Wool collection provides lightweight core warmth using advanced Active+ Insulation inspired by aerospace materials. Designed for long-distance runners, it includes internal pockets for secure, bounce-free storage of up to six energy gels and doubles as a stow sack. The vest compresses easily with one hand and features an adjustable hem to block drafts, making it an efficient, packable layer for race day or active pursuits.\n    men\n    Aero Wool All CYCLING LS TEE Men TOP TRAIL RUNNING\n  "
-  },
-  {
     "id": "outopia_9013671133404",
     "name": "Men's Wild Run Stow Shorts",
     "description": "Introducing the Wild Run collection, with a built-in stretch mesh belt offering 3L of secure, bounce-free capacity, so you don't need an extra running vest. Crafted from ultralight, quick-drying fabric with a soft feel, they offer exceptional next-to-skin comfort. Adjustable waistband and integrated liner ensure a secure, chafe-free fit mile after mile. And the shorts conveniently pack into their own pocket, the ideal choice for travel and long runs.",
@@ -2342,6 +2307,40 @@
       "gender": "women"
     },
     "text_for_embedding": "\n    Unisex's Astra Merino Blend Tank\n    Born for professional trail running events, the Astra collection features a classic crewneck and a tailored cut for unrestricted movement. The breathable, skin-friendly fabric moves with your body, making each step a declaration of staying true to yourself. Each print tells a runner's story. Wear it. Let the stories grow with you every step.\n    women\n    All Astra HIKING Men Spring 26 TOP TRAIL RUNNING Unisex Women\n  "
+  },
+  {
+    "id": "outopia_9364276642012",
+    "name": "Unisex's Wild Hat Running Hat",
+    "description": "The Wild Hat collection designed for runners needing breathable, moisture-wicking comfort. Its lightweight mesh fabric keeps air flowing, while the quick-drying sweatband manages perspiration. The flexible brim adapts for sun or rain protection, and a secure buckle closure ensures a comfortable fit.",
+    "price": 48,
+    "currency": "USD",
+    "category": "women",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat2.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat1.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat3.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat4.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat5.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat8.webp?v=1778743040",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat7.webp?v=1778743039",
+      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Unisex_sWildHatRunningHat6.webp?v=1778743039"
+    ],
+    "url": "https://outopia.com/products/unisexs-wild-hat-running-cap-副本",
+    "metadata": {
+      "tags": [
+        "accessories",
+        "All",
+        "HAT&CAP",
+        "Men",
+        "TRAIL RUNNING",
+        "Unisex",
+        "Wild Hat",
+        "Women"
+      ],
+      "vendor": "Outopia",
+      "gender": "women"
+    },
+    "text_for_embedding": "\n    Unisex's Wild Hat Running Hat\n    The Wild Hat collection designed for runners needing breathable, moisture-wicking comfort. Its lightweight mesh fabric keeps air flowing, while the quick-drying sweatband manages perspiration. The flexible brim adapts for sun or rain protection, and a secure buckle closure ensures a comfortable fit.\n    women\n    accessories All HAT&CAP Men TRAIL RUNNING Unisex Wild Hat Women\n  "
   },
   {
     "id": "outopia_9096215986396",
@@ -3512,44 +3511,6 @@
       "gender": "women"
     },
     "text_for_embedding": "\n    Women's Heat Puff Packable Insulated Vest\n    This lightweight vest merges wind-resistant Pertex® Quantum Air fabric with high-loft PrimaLoft® Gold insulation, offering exceptional core warmth and breathability during activities. It packs neatly into its own pocket for storage, with practical details including two zippered pockets and the adjustable hem. Ideal as an outerwear piece in milder conditions or as a versatile insulating layer under outerwear, it’s designed for active use from chilly runs to daily life.\n    women\n    All Heat Puff HIKING MIDDLE LAYER outerwear TOPWINTER TRAINING TRAIL RUNNING VEST WINTER TRAINING Women\n  "
-  },
-  {
-    "id": "outopia_9013447852252",
-    "name": "Women's Aero Wool Merino Blend Hooded Long Sleeves T-Shirt",
-    "description": "The Aero Wool collection features Polartec® Power Wool™, combining soft Merino wool inside for warmth and odor control with a durable synthetic exterior that wicks moisture and resists abrasion. Made from ultralight 115gsm fabric with an athletic fit, it works as a high-performance base or mid-layer in cold conditions. The balaclava-style hood offers full head and neck protection, while extended cuffs with thumbholes keep hands warm. Reflective details provide 360° visibility, and the fabric’s stretch and moisture management ensure comfort during intense activity.",
-    "price": 168,
-    "currency": "USD",
-    "category": "women",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_3.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_7.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_9.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_10.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_11.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_12.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_8.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_13.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_6.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_4.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_2.webp?v=1768892958",
-      "https://cdn.shopify.com/s/files/1/0676/0015/4844/files/Women_sAeroWoolMerinoBlendHoodedLongSleevesT-Shirt_5.webp?v=1768892958"
-    ],
-    "url": "https://outopia.com/products/womens-aero-wool-merino-blend-hooded-long-sleeves-t-shirt",
-    "metadata": {
-      "tags": [
-        "Aero Wool",
-        "All",
-        "BASELAYER",
-        "CYCLING",
-        "LS TEE",
-        "TOP",
-        "TRAIL RUNNING",
-        "Women"
-      ],
-      "vendor": "Outopia",
-      "gender": "women"
-    },
-    "text_for_embedding": "\n    Women's Aero Wool Merino Blend Hooded Long Sleeves T-Shirt\n    The Aero Wool collection features Polartec® Power Wool™, combining soft Merino wool inside for warmth and odor control with a durable synthetic exterior that wicks moisture and resists abrasion. Made from ultralight 115gsm fabric with an athletic fit, it works as a high-performance base or mid-layer in cold conditions. The balaclava-style hood offers full head and neck protection, while extended cuffs with thumbholes keep hands warm. Reflective details provide 360° visibility, and the fabric’s stretch and moisture management ensure comfort during intense activity.\n    women\n    Aero Wool All BASELAYER CYCLING LS TEE TOP TRAIL RUNNING Women\n  "
   },
   {
     "id": "outopia_9013447557340",
